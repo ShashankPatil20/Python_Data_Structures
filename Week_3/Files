@@ -1,0 +1,5 @@
+So, everything we've done up until now has been sort of just if a tree falls
+in the forest, if a variable gets set in a computer and no one reads it, did
+it really happen? Or if a tree falls in the forest and no one hears it, did
+it really happen? So that's kind of what we've been doing so far. We've set
+x equals 3 and then asked when we print it back out, did we do this, whatever.
